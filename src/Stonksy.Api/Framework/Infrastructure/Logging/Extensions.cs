@@ -51,7 +51,6 @@ namespace Stonksy.Api.Framework.Infrastructure.Logging
                                 break;
                         }
                     }
-
                     logger.Trace();
                 });
             }));
