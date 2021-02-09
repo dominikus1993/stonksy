@@ -3,9 +3,7 @@ source https://api.nuget.org/v3/index.json
 storage: none
 framework: net5.0
 
-nuget FSharp.Core
 nuget AspNetCore.HealthChecks.UI.Client
-nuget AspNetCore.HealthChecks.MongoDb
 nuget LanguageExt.Core
 nuget LanguageExt.FSharp
 nuget MongoDB.Driver
