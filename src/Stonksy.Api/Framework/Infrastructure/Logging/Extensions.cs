@@ -26,6 +26,8 @@ namespace Stonksy.Api.Framework.Infrastructure.Logging
 
                 var conf = configuration
                     .MinimumLevel.Is(level)
+                    .MinimumLevel.Override("Microsoft", LogEventLevel.Information)
+                    .MinimumLevel.Override("Microsoft.AspNetCore", LogEventLevel.Warning) 
                     .Enrich.FromLogContext()
                     .Enrich.WithProperty("Environment", context.HostingEnvironment.EnvironmentName)
                     .Enrich.WithProperty("ApplicationName", appName)

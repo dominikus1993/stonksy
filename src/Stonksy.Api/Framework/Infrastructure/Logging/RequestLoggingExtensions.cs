@@ -32,14 +32,28 @@ namespace Stonksy.Api.Framework.Infrastructure.Logging
             return false;
         }
 
-        public static LogEventLevel ExcludeHealthChecks(HttpContext ctx, double _, Exception? ex) =>
-            ex != null
-                ? LogEventLevel.Error
-                : ctx.Response.StatusCode > 499
-                    ? LogEventLevel.Error
-                    : IsHealthCheckEndpoint(ctx) // Not an error, check if it was a health check
-                        ? LogEventLevel.Verbose // Was a health check, use Verbose
-                        : LogEventLevel.Information;
+        [MethodImpl(MethodImplOptions.AggressiveInlining)]
+        public static LogEventLevel ExcludeHealthChecks(HttpContext ctx, double _, Exception? ex)
+        {
+            if (ex is not null)
+            {
+                return LogEventLevel.Error;
+            }
+
+            if (ctx.Response.StatusCode > 499)
+            {
+                return LogEventLevel.Error;
+            }
+
+            if (IsHealthCheckEndpoint(ctx))
+            {
+                return LogEventLevel.Verbose;
+            }
+            else
+            {
+                return LogEventLevel.Information;
+            }
+        }
 
         public static void EnrichFromRequest(
             IDiagnosticContext diagnosticContext, HttpContext httpContext)
