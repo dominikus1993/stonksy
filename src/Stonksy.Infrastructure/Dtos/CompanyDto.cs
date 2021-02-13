@@ -1,4 +1,16 @@
-﻿namespace Stonksy.Infrastructure.Dtos
+﻿using Stonksy.Core.Model;
+
+namespace Stonksy.Infrastructure.Dtos
 {
-    public record CompanyDto(string Symbol, string Name, string Market);
+    public class CompanyDto
+    {
+        public string Symbol { get; set; }
+        public string Name { get; set; }
+        public string Market { get; set; }
+        
+        public Company MapToCompany()
+        {
+            return new(Symbol, Name, Market);
+        }
+    }
 }
