@@ -6,6 +6,6 @@ namespace Stonksy.Core.Providers.Stocks
 {
     public interface IHistoricalStockDataProvider
     {
-        IAsyncEnumerable<CompanyStock> Provide(CancellationToken cancellationToken = default);
+        IAsyncEnumerable<Stock> Provide(CancellationToken cancellationToken = default);
     }
 }
