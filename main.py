@@ -1,16 +1,15 @@
 import asyncio
-import aiohttp
+from asyncio.tasks import wait
+from os import times
 from aiohttp.client import ClientSession
+import pandas as pd
+import io
+import requests
+import infrastructure.services.companies as companies
 
-companies_url ="https://pkgstore.datahub.io/core/nasdaq-listings/nasdaq-listed_csv/data/7665719fb51081ba0bd834fde71ce822/nasdaq-listed_csv.csv"
 
-async def download_companies(): 
-    async with ClientSession() as session:
-        async with session.get(companies_url) as response:
-            print(f'Status {response.status}')
-            companies = await response.text()
-            return companies
+res = companies.download_companies()
 
-a = asyncio.run(download_companies())
 
-print(a)
+print(res)
+
