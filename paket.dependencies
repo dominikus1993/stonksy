@@ -6,3 +6,9 @@ framework: net5.0
 
 nuget FSharp.Core
 nuget FSharp.Control.AsyncSeq
+
+
+nuget Microsoft.NET.Test.Sdk
+nuget xunit
+nuget xunit.runner.visualstudio
+nuget coverlet.collector
