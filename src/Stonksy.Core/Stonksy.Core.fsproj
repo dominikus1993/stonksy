@@ -5,6 +5,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Library.fs" />
+    <Compile Include="Types.fs" />
+    <Compile Include="Service.fs" />
     <Compile Include="UseCase.fs" />
   </ItemGroup>
   <Import Project="..\..\.paket\Paket.Restore.targets" />

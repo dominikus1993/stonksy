@@ -1,0 +1,2 @@
+﻿namespace Stonksy.Core.Types
+
