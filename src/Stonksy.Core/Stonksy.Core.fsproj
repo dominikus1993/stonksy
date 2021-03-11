@@ -4,10 +4,11 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Library.fs" />
+    <Compile Include="Utils.fs" />
     <Compile Include="Types.fs" />
     <Compile Include="Service.fs" />
     <Compile Include="UseCase.fs" />
+    <Content Include="paket.references" />
   </ItemGroup>
   <Import Project="..\..\.paket\Paket.Restore.targets" />
 </Project>
