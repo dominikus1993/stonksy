@@ -4,3 +4,15 @@ storage: none
 framework: net6.0
 
 nuget Akka
+
+
+nuget Akka.TestKit.Xunit2
+nuget AutoFixture
+nuget FluentAssertions
+nuget xunit
+nuget xunit.runner.visualstudio
+nuget Moq
+nuget coverlet.collector
+nuget Testcontainers
+nuget Microsoft.NET.Test.Sdk
+nuget Ogooreck
