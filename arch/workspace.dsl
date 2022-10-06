@@ -3,7 +3,10 @@ workspace {
     model {
         user = person "User"
         yahoo = softwareSystem "Yahoo Finance"
-        stonksy = softwareSystem "Stonksy"
+        stonksy = softwareSystem "Stonksy" {
+            apiApplication = container "Stonksy.App" "Provides information about some stocks" ".NET 6" {
+            }
+        }
 
         user -> stonksy "Uses"
         stonksy -> yahoo "Download stock data"
@@ -11,6 +14,11 @@ workspace {
 
     views {
         systemContext stonksy "Stonksy" {
+            include *
+            autoLayout
+        }
+
+        container stonksy "Containers" {
             include *
             autoLayout
         }
