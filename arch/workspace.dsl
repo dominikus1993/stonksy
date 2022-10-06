@@ -4,7 +4,7 @@ workspace {
         user = person "User"
         yahoo = softwareSystem "Yahoo Finance"
         stonksy = softwareSystem "Stonksy" {
-            apiApplication = container "Stonksy.App" "Provides information about some stocks" ".NET 6" {
+            app = container "Stonksy.App" "Provides information about some stocks" ".NET 6" {
             }
         }
 

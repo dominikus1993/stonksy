@@ -3,10 +3,10 @@
   "name" : "Name",
   "description" : "Description",
   "revision" : 0,
-  "lastModifiedDate" : "2022-10-06T17:35:52Z",
+  "lastModifiedDate" : "2022-10-06T17:55:11Z",
   "lastModifiedAgent" : "structurizr-web/2828/diagram",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIKICAgICAgICB5YWhvbyA9IHNvZnR3YXJlU3lzdGVtICJZYWhvbyBGaW5hbmNlIgogICAgICAgIHN0b25rc3kgPSBzb2Z0d2FyZVN5c3RlbSAiU3RvbmtzeSIgewogICAgICAgICAgICBhcGlBcHBsaWNhdGlvbiA9IGNvbnRhaW5lciAiQVBJIEFwcGxpY2F0aW9uIiAiUHJvdmlkZXMgSW50ZXJuZXQgYmFua2luZyBmdW5jdGlvbmFsaXR5IHZpYSBhIEpTT04vSFRUUFMgQVBJLiIgIkphdmEgYW5kIFNwcmluZyBNVkMiIHsKICAgICAgICAgICAgICAgIHNpZ25pbkNvbnRyb2xsZXIgPSBjb21wb25lbnQgIlNpZ24gSW4gQ29udHJvbGxlciIgIkFsbG93cyB1c2VycyB0byBzaWduIGluIHRvIHRoZSBJbnRlcm5ldCBCYW5raW5nIFN5c3RlbS4iICJTcHJpbmcgTVZDIFJlc3QgQ29udHJvbGxlciIKICAgICAgICAgICAgICAgIGFjY291bnRzU3VtbWFyeUNvbnRyb2xsZXIgPSBjb21wb25lbnQgIkFjY291bnRzIFN1bW1hcnkgQ29udHJvbGxlciIgIlByb3ZpZGVzIGN1c3RvbWVycyB3aXRoIGEgc3VtbWFyeSBvZiB0aGVpciBiYW5rIGFjY291bnRzLiIgIlNwcmluZyBNVkMgUmVzdCBDb250cm9sbGVyIgogICAgICAgICAgICAgICAgcmVzZXRQYXNzd29yZENvbnRyb2xsZXIgPSBjb21wb25lbnQgIlJlc2V0IFBhc3N3b3JkIENvbnRyb2xsZXIiICJBbGxvd3MgdXNlcnMgdG8gcmVzZXQgdGhlaXIgcGFzc3dvcmRzIHdpdGggYSBzaW5nbGUgdXNlIFVSTC4iICJTcHJpbmcgTVZDIFJlc3QgQ29udHJvbGxlciIKICAgICAgICAgICAgICAgIHNlY3VyaXR5Q29tcG9uZW50ID0gY29tcG9uZW50ICJTZWN1cml0eSBDb21wb25lbnQiICJQcm92aWRlcyBmdW5jdGlvbmFsaXR5IHJlbGF0ZWQgdG8gc2lnbmluZyBpbiwgY2hhbmdpbmcgcGFzc3dvcmRzLCBldGMuIiAiU3ByaW5nIEJlYW4iCiAgICAgICAgICAgICAgICBtYWluZnJhbWVCYW5raW5nU3lzdGVtRmFjYWRlID0gY29tcG9uZW50ICJNYWluZnJhbWUgQmFua2luZyBTeXN0ZW0gRmFjYWRlIiAiQSBmYWNhZGUgb250byB0aGUgbWFpbmZyYW1lIGJhbmtpbmcgc3lzdGVtLiIgIlNwcmluZyBCZWFuIgogICAgICAgICAgICAgICAgZW1haWxDb21wb25lbnQgPSBjb21wb25lbnQgIkUtbWFpbCBDb21wb25lbnQiICJTZW5kcyBlLW1haWxzIHRvIHVzZXJzLiIgIlNwcmluZyBCZWFuIgogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICB1c2VyIC0+IHN0b25rc3kgIlVzZXMiCiAgICAgICAgc3RvbmtzeSAtPiB5YWhvbyAiRG93bmxvYWQgc3RvY2sgZGF0YSIKICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtQ29udGV4dCBzdG9ua3N5ICJTdG9ua3N5IiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgc3RvbmtzeSAiQ29udGFpbmVycyIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAiUGVyc29uIiB7CiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgICAgICBmb250U2l6ZSAyMgogICAgICAgICAgICAgICAgc2hhcGUgUGVyc29uCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiS2xpZW50IHBvcnRhbHUgcm9zc21hbm4iIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzA4NDI3YgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkJhbmsgU3RhZmYiIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzk5OTk5OQogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIlNvZnR3YXJlIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjMTE2OGJkCiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiRXhpc3RpbmcgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJDb250YWluZXIiIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzQzOGRkNQogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkxveWFsdHkiIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzM4RDgyMgogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIldlYiBCcm93c2VyIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBXZWJCcm93c2VyCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiTW9iaWxlIEFwcCIgewogICAgICAgICAgICAgICAgc2hhcGUgTW9iaWxlRGV2aWNlTGFuZHNjYXBlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiRGF0YWJhc2UiIHsKICAgICAgICAgICAgICAgIHNoYXBlIEN5bGluZGVyCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiQ29tcG9uZW50IiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM4NWJiZjAKICAgICAgICAgICAgICAgIGNvbG9yICMwMDAwMDAKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJGYWlsb3ZlciIgewogICAgICAgICAgICAgICAgb3BhY2l0eSAyNQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgICAgICB0aGVtZXMgaHR0cHM6Ly9zdGF0aWMuc3RydWN0dXJpenIuY29tL3RoZW1lcy9hbWF6b24td2ViLXNlcnZpY2VzLTIwMjAuMDQuMzAvdGhlbWUuanNvbgogICAgfQoKfQo="
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIKICAgICAgICB5YWhvbyA9IHNvZnR3YXJlU3lzdGVtICJZYWhvbyBGaW5hbmNlIgogICAgICAgIHN0b25rc3kgPSBzb2Z0d2FyZVN5c3RlbSAiU3RvbmtzeSIgewogICAgICAgICAgICBhcGlBcHBsaWNhdGlvbiA9IGNvbnRhaW5lciAiU3RvbmtzeS5BcHAiICJQcm92aWRlcyBpbmZvcm1hdGlvbiBhYm91dCBzb21lIHN0b2NrcyIgIi5ORVQgNiIgewogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICB1c2VyIC0+IHN0b25rc3kgIlVzZXMiCiAgICAgICAgc3RvbmtzeSAtPiB5YWhvbyAiRG93bmxvYWQgc3RvY2sgZGF0YSIKICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtQ29udGV4dCBzdG9ua3N5ICJTdG9ua3N5IiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgc3RvbmtzeSAiQ29udGFpbmVycyIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAiUGVyc29uIiB7CiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgICAgICBmb250U2l6ZSAyMgogICAgICAgICAgICAgICAgc2hhcGUgUGVyc29uCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiS2xpZW50IHBvcnRhbHUgcm9zc21hbm4iIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzA4NDI3YgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkJhbmsgU3RhZmYiIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzk5OTk5OQogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIlNvZnR3YXJlIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjMTE2OGJkCiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiRXhpc3RpbmcgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJDb250YWluZXIiIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzQzOGRkNQogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkxveWFsdHkiIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzM4RDgyMgogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIldlYiBCcm93c2VyIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBXZWJCcm93c2VyCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiTW9iaWxlIEFwcCIgewogICAgICAgICAgICAgICAgc2hhcGUgTW9iaWxlRGV2aWNlTGFuZHNjYXBlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiRGF0YWJhc2UiIHsKICAgICAgICAgICAgICAgIHNoYXBlIEN5bGluZGVyCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiQ29tcG9uZW50IiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM4NWJiZjAKICAgICAgICAgICAgICAgIGNvbG9yICMwMDAwMDAKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJGYWlsb3ZlciIgewogICAgICAgICAgICAgICAgb3BhY2l0eSAyNQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgICAgICB0aGVtZXMgaHR0cHM6Ly9zdGF0aWMuc3RydWN0dXJpenIuY29tL3RoZW1lcy9hbWF6b24td2ViLXNlcnZpY2VzLTIwMjAuMDQuMzAvdGhlbWUuanNvbgogICAgfQoKfQo="
   },
   "configuration" : { },
   "model" : {
@@ -15,7 +15,7 @@
       "tags" : "Element,Person",
       "name" : "User",
       "relationships" : [ {
-        "id" : "11",
+        "id" : "5",
         "tags" : "Relationship",
         "sourceId" : "1",
         "destinationId" : "3",
@@ -28,7 +28,7 @@
       "tags" : "Element,Software System",
       "name" : "Stonksy",
       "relationships" : [ {
-        "id" : "12",
+        "id" : "6",
         "tags" : "Relationship",
         "sourceId" : "3",
         "destinationId" : "2",
@@ -38,52 +38,9 @@
       "containers" : [ {
         "id" : "4",
         "tags" : "Element,Container",
-        "name" : "API Application",
-        "description" : "Provides Internet banking functionality via a JSON/HTTPS API.",
-        "technology" : "Java and Spring MVC",
-        "components" : [ {
-          "id" : "6",
-          "tags" : "Element,Component",
-          "name" : "Accounts Summary Controller",
-          "description" : "Provides customers with a summary of their bank accounts.",
-          "technology" : "Spring MVC Rest Controller",
-          "size" : 0
-        }, {
-          "id" : "9",
-          "tags" : "Element,Component",
-          "name" : "Mainframe Banking System Facade",
-          "description" : "A facade onto the mainframe banking system.",
-          "technology" : "Spring Bean",
-          "size" : 0
-        }, {
-          "id" : "8",
-          "tags" : "Element,Component",
-          "name" : "Security Component",
-          "description" : "Provides functionality related to signing in, changing passwords, etc.",
-          "technology" : "Spring Bean",
-          "size" : 0
-        }, {
-          "id" : "5",
-          "tags" : "Element,Component",
-          "name" : "Sign In Controller",
-          "description" : "Allows users to sign in to the Internet Banking System.",
-          "technology" : "Spring MVC Rest Controller",
-          "size" : 0
-        }, {
-          "id" : "7",
-          "tags" : "Element,Component",
-          "name" : "Reset Password Controller",
-          "description" : "Allows users to reset their passwords with a single use URL.",
-          "technology" : "Spring MVC Rest Controller",
-          "size" : 0
-        }, {
-          "id" : "10",
-          "tags" : "Element,Component",
-          "name" : "E-mail Component",
-          "description" : "Sends e-mails to users.",
-          "technology" : "Spring Bean",
-          "size" : 0
-        } ]
+        "name" : "Stonksy.App",
+        "description" : "Provides information about some stocks",
+        "technology" : ".NET 6"
       } ],
       "documentation" : { }
     }, {
@@ -116,21 +73,21 @@
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
         "id" : "1",
-        "x" : 232,
+        "x" : 233,
         "y" : 208
       }, {
         "id" : "2",
-        "x" : 207,
+        "x" : 208,
         "y" : 1508
       }, {
         "id" : "3",
-        "x" : 207,
+        "x" : 208,
         "y" : 908
       } ],
       "relationships" : [ {
-        "id" : "11"
+        "id" : "5"
       }, {
-        "id" : "12"
+        "id" : "6"
       } ]
     } ],
     "containerViews" : [ {
@@ -154,7 +111,7 @@
       "elements" : [ {
         "id" : "4",
         "x" : 329,
-        "y" : 329
+        "y" : 292
       } ]
     } ],
     "configuration" : {
