@@ -23,6 +23,11 @@ workspace {
             autoLayout
         }
 
+        component app "Components" {
+            include *
+            autoLayout
+        }
+
         styles {
             element "Person" {
                 color #ffffff

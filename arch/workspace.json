@@ -3,10 +3,10 @@
   "name" : "Name",
   "description" : "Description",
   "revision" : 0,
-  "lastModifiedDate" : "2022-10-06T17:55:11Z",
+  "lastModifiedDate" : "2022-10-06T17:58:24Z",
   "lastModifiedAgent" : "structurizr-web/2828/diagram",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIKICAgICAgICB5YWhvbyA9IHNvZnR3YXJlU3lzdGVtICJZYWhvbyBGaW5hbmNlIgogICAgICAgIHN0b25rc3kgPSBzb2Z0d2FyZVN5c3RlbSAiU3RvbmtzeSIgewogICAgICAgICAgICBhcGlBcHBsaWNhdGlvbiA9IGNvbnRhaW5lciAiU3RvbmtzeS5BcHAiICJQcm92aWRlcyBpbmZvcm1hdGlvbiBhYm91dCBzb21lIHN0b2NrcyIgIi5ORVQgNiIgewogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICB1c2VyIC0+IHN0b25rc3kgIlVzZXMiCiAgICAgICAgc3RvbmtzeSAtPiB5YWhvbyAiRG93bmxvYWQgc3RvY2sgZGF0YSIKICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtQ29udGV4dCBzdG9ua3N5ICJTdG9ua3N5IiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgc3RvbmtzeSAiQ29udGFpbmVycyIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAiUGVyc29uIiB7CiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgICAgICBmb250U2l6ZSAyMgogICAgICAgICAgICAgICAgc2hhcGUgUGVyc29uCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiS2xpZW50IHBvcnRhbHUgcm9zc21hbm4iIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzA4NDI3YgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkJhbmsgU3RhZmYiIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzk5OTk5OQogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIlNvZnR3YXJlIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjMTE2OGJkCiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiRXhpc3RpbmcgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJDb250YWluZXIiIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzQzOGRkNQogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkxveWFsdHkiIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzM4RDgyMgogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIldlYiBCcm93c2VyIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBXZWJCcm93c2VyCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiTW9iaWxlIEFwcCIgewogICAgICAgICAgICAgICAgc2hhcGUgTW9iaWxlRGV2aWNlTGFuZHNjYXBlCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiRGF0YWJhc2UiIHsKICAgICAgICAgICAgICAgIHNoYXBlIEN5bGluZGVyCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiQ29tcG9uZW50IiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM4NWJiZjAKICAgICAgICAgICAgICAgIGNvbG9yICMwMDAwMDAKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJGYWlsb3ZlciIgewogICAgICAgICAgICAgICAgb3BhY2l0eSAyNQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgICAgICB0aGVtZXMgaHR0cHM6Ly9zdGF0aWMuc3RydWN0dXJpenIuY29tL3RoZW1lcy9hbWF6b24td2ViLXNlcnZpY2VzLTIwMjAuMDQuMzAvdGhlbWUuanNvbgogICAgfQoKfQo="
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIKICAgICAgICB5YWhvbyA9IHNvZnR3YXJlU3lzdGVtICJZYWhvbyBGaW5hbmNlIgogICAgICAgIHN0b25rc3kgPSBzb2Z0d2FyZVN5c3RlbSAiU3RvbmtzeSIgewogICAgICAgICAgICBhcHAgPSBjb250YWluZXIgIlN0b25rc3kuQXBwIiAiUHJvdmlkZXMgaW5mb3JtYXRpb24gYWJvdXQgc29tZSBzdG9ja3MiICIuTkVUIDYiIHsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgdXNlciAtPiBzdG9ua3N5ICJVc2VzIgogICAgICAgIHN0b25rc3kgLT4geWFob28gIkRvd25sb2FkIHN0b2NrIGRhdGEiCiAgICB9CgogICAgdmlld3MgewogICAgICAgIHN5c3RlbUNvbnRleHQgc3RvbmtzeSAiU3RvbmtzeSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCiAgICAgICAgY29udGFpbmVyIHN0b25rc3kgIkNvbnRhaW5lcnMiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIGNvbXBvbmVudCBhcHAgIkNvbXBvbmVudHMiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIHN0eWxlcyB7CiAgICAgICAgICAgIGVsZW1lbnQgIlBlcnNvbiIgewogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICAgICAgZm9udFNpemUgMjIKICAgICAgICAgICAgICAgIHNoYXBlIFBlcnNvbgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIktsaWVudCBwb3J0YWx1IHJvc3NtYW5uIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICMwODQyN2IKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJCYW5rIFN0YWZmIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJTb2Z0d2FyZSBTeXN0ZW0iIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzExNjhiZAogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkV4aXN0aW5nIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjOTk5OTk5CiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiQ29udGFpbmVyIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM0MzhkZDUKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJMb3lhbHR5IiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICMzOEQ4MjIKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJXZWIgQnJvd3NlciIgewogICAgICAgICAgICAgICAgc2hhcGUgV2ViQnJvd3NlcgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIk1vYmlsZSBBcHAiIHsKICAgICAgICAgICAgICAgIHNoYXBlIE1vYmlsZURldmljZUxhbmRzY2FwZQogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkRhdGFiYXNlIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBDeWxpbmRlcgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkNvbXBvbmVudCIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjODViYmYwCiAgICAgICAgICAgICAgICBjb2xvciAjMDAwMDAwCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiRmFpbG92ZXIiIHsKICAgICAgICAgICAgICAgIG9wYWNpdHkgMjUKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICAKICAgICAgICB0aGVtZSBkZWZhdWx0CiAgICAgICAgdGhlbWVzIGh0dHBzOi8vc3RhdGljLnN0cnVjdHVyaXpyLmNvbS90aGVtZXMvYW1hem9uLXdlYi1zZXJ2aWNlcy0yMDIwLjA0LjMwL3RoZW1lLmpzb24KICAgIH0KCn0K"
   },
   "configuration" : { },
   "model" : {
@@ -24,6 +24,12 @@
       "location" : "Unspecified"
     } ],
     "softwareSystems" : [ {
+      "id" : "2",
+      "tags" : "Element,Software System",
+      "name" : "Yahoo Finance",
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
       "id" : "3",
       "tags" : "Element,Software System",
       "name" : "Stonksy",
@@ -42,12 +48,6 @@
         "description" : "Provides information about some stocks",
         "technology" : ".NET 6"
       } ],
-      "documentation" : { }
-    }, {
-      "id" : "2",
-      "tags" : "Element,Software System",
-      "name" : "Yahoo Finance",
-      "location" : "Unspecified",
       "documentation" : { }
     } ]
   },
@@ -71,6 +71,11 @@
         "vertices" : false
       },
       "enterpriseBoundaryVisible" : true,
+      "relationships" : [ {
+        "id" : "5"
+      }, {
+        "id" : "6"
+      } ],
       "elements" : [ {
         "id" : "1",
         "x" : 233,
@@ -83,11 +88,6 @@
         "id" : "3",
         "x" : 208,
         "y" : 908
-      } ],
-      "relationships" : [ {
-        "id" : "5"
-      }, {
-        "id" : "6"
       } ]
     } ],
     "containerViews" : [ {
@@ -111,8 +111,27 @@
       "elements" : [ {
         "id" : "4",
         "x" : 329,
-        "y" : 292
+        "y" : 329
       } ]
+    } ],
+    "componentViews" : [ {
+      "key" : "Components",
+      "order" : 3,
+      "paperSize" : "A6_Portrait",
+      "dimensions" : {
+        "width" : 400,
+        "height" : 400
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "containerId" : "4",
+      "externalContainerBoundariesVisible" : true
     } ],
     "configuration" : {
       "branding" : { },
@@ -164,7 +183,7 @@
       },
       "themes" : [ "https://static.structurizr.com/themes/default/theme.json", "https://static.structurizr.com/themes/amazon-web-services-2020.04.30/theme.json" ],
       "terminology" : { },
-      "lastSavedView" : "Containers"
+      "lastSavedView" : "Components"
     }
   }
 }
