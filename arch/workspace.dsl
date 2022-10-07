@@ -5,6 +5,9 @@ workspace {
         yahoo = softwareSystem "Yahoo Finance"
         stonksy = softwareSystem "Stonksy" {
             app = container "Stonksy.App" "Provides information about some stocks" ".NET 6" {
+                stonkprovider = component "StonksDataProvider" "Provide stock data" "Dotnet Module" {
+                    this -> yahoo "Download stock data"
+                }
             }
         }
 
