@@ -3,10 +3,10 @@
   "name" : "Name",
   "description" : "Description",
   "revision" : 0,
-  "lastModifiedDate" : "2022-10-07T16:04:13Z",
+  "lastModifiedDate" : "2022-10-08T15:23:27Z",
   "lastModifiedAgent" : "structurizr-web/2828/diagram",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIKICAgICAgICB5YWhvbyA9IHNvZnR3YXJlU3lzdGVtICJZYWhvbyBGaW5hbmNlIgogICAgICAgIHN0b25rc3kgPSBzb2Z0d2FyZVN5c3RlbSAiU3RvbmtzeSIgewogICAgICAgICAgICBhcHAgPSBjb250YWluZXIgIlN0b25rc3kuQXBwIiAiUHJvdmlkZXMgaW5mb3JtYXRpb24gYWJvdXQgc29tZSBzdG9ja3MiICIuTkVUIDYiIHsKICAgICAgICAgICAgICAgIHN0b25rcHJvdmlkZXIgPSBjb21wb25lbnQgIlNpZ24gSW4gQ29udHJvbGxlciIgIkFsbG93cyB1c2VycyB0byBzaWduIGluIHRvIHRoZSBJbnRlcm5ldCBCYW5raW5nIFN5c3RlbS4iICJEb3RuZXQgTW9kdWxlIiB7CiAgICAgICAgICAgICAgICAgICAgdGhpcyAtPiB5YWhvbyAiRG93bmxvYWQgc3RvY2sgZGF0YSIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgdXNlciAtPiBzdG9ua3N5ICJVc2VzIgogICAgICAgIHN0b25rc3kgLT4geWFob28gIkRvd25sb2FkIHN0b2NrIGRhdGEiCiAgICB9CgogICAgdmlld3MgewogICAgICAgIHN5c3RlbUNvbnRleHQgc3RvbmtzeSAiU3RvbmtzeSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCiAgICAgICAgY29udGFpbmVyIHN0b25rc3kgIkNvbnRhaW5lcnMiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIGNvbXBvbmVudCBhcHAgIkNvbXBvbmVudHMiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIHN0eWxlcyB7CiAgICAgICAgICAgIGVsZW1lbnQgIlBlcnNvbiIgewogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICAgICAgZm9udFNpemUgMjIKICAgICAgICAgICAgICAgIHNoYXBlIFBlcnNvbgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIktsaWVudCBwb3J0YWx1IHJvc3NtYW5uIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICMwODQyN2IKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJCYW5rIFN0YWZmIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJTb2Z0d2FyZSBTeXN0ZW0iIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzExNjhiZAogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkV4aXN0aW5nIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjOTk5OTk5CiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiQ29udGFpbmVyIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM0MzhkZDUKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJMb3lhbHR5IiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICMzOEQ4MjIKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJXZWIgQnJvd3NlciIgewogICAgICAgICAgICAgICAgc2hhcGUgV2ViQnJvd3NlcgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIk1vYmlsZSBBcHAiIHsKICAgICAgICAgICAgICAgIHNoYXBlIE1vYmlsZURldmljZUxhbmRzY2FwZQogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkRhdGFiYXNlIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBDeWxpbmRlcgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkNvbXBvbmVudCIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjODViYmYwCiAgICAgICAgICAgICAgICBjb2xvciAjMDAwMDAwCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiRmFpbG92ZXIiIHsKICAgICAgICAgICAgICAgIG9wYWNpdHkgMjUKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICAKICAgICAgICB0aGVtZSBkZWZhdWx0CiAgICAgICAgdGhlbWVzIGh0dHBzOi8vc3RhdGljLnN0cnVjdHVyaXpyLmNvbS90aGVtZXMvYW1hem9uLXdlYi1zZXJ2aWNlcy0yMDIwLjA0LjMwL3RoZW1lLmpzb24KICAgIH0KCn0K"
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIKICAgICAgICB5YWhvbyA9IHNvZnR3YXJlU3lzdGVtICJZYWhvbyBGaW5hbmNlIgogICAgICAgIHN0b25rc3kgPSBzb2Z0d2FyZVN5c3RlbSAiU3RvbmtzeSIgewogICAgICAgICAgICBhcHAgPSBjb250YWluZXIgIlN0b25rc3kuQXBwIiAiUHJvdmlkZXMgaW5mb3JtYXRpb24gYWJvdXQgc29tZSBzdG9ja3MiICIuTkVUIDYiIHsKICAgICAgICAgICAgICAgIHN0b25rcHJvdmlkZXIgPSBjb21wb25lbnQgIlN0b2NrRGF0YVByb3ZpZGVyIiAiUHJvdmlkZSBzdG9jayBkYXRhIiAiRG90bmV0IE1vZHVsZSIgewogICAgICAgICAgICAgICAgICAgIHRoaXMgLT4geWFob28gIkRvd25sb2FkIHN0b2NrIGRhdGEiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBzdG9ua3ByZWRpY3RvciA9IGNvbXBvbmVudCAiU3RvY2tEYXRhUHJlZGljdG9yIiAiUHJlZGljdCBmdXR1cmUgcHJpY2Ugb2Ygc3RvY2siICJEb3RuZXQgTW9kdWxlIiB7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBzdG9ja2RhdGFoaXN0b3J5ID0gY29tcG9uZW50ICJTdG9ja0RhdGFIaXN0b3J5IiAiUHJvdmlkZSBzdG9jayBkYXRhIGhpc3RvcnkiICJEb3RuZXQgTW9kdWxlIiB7CiAgICAgICAgICAgICAgICAgICAgdGhpcyAtPiBzdG9ua3ByZWRpY3RvciAiU3RvY2tXYXNDaGFuZ2VkIiAicmFiYml0bXEiCiAgICAgICAgICAgICAgICAgICAgc3Rvbmtwcm92aWRlciAtPiB0aGlzICJTdG9ja1dhc0Rvd25sb2FkZWQiICJyYWJiaXRtcSIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBoaXN0b3J5ZGIgPSBjb250YWluZXIgIkhpc3RvcnlEYXRhYmFzZSIgIlN0b3JlcyBpbmZvcm1hdGlvbiBhYmFvdXQgc3RvY2sgaGlzdG9yIiAiRGF0YWJhc2UiIHsKICAgICAgICAgICAgICAgIHN0b2NrZGF0YWhpc3RvcnkgLT4gdGhpcyAiUmVhZC9Xcml0ZSBzdG9jayAiCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgdXNlciAtPiBzdG9ua3N5ICJVc2VzIgogICAgICAgIHN0b25rc3kgLT4geWFob28gIkRvd25sb2FkIHN0b2NrIGRhdGEiCiAgICB9CgogICAgdmlld3MgewogICAgICAgIHN5c3RlbUNvbnRleHQgc3RvbmtzeSAiU3RvbmtzeSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCiAgICAgICAgY29udGFpbmVyIHN0b25rc3kgIkNvbnRhaW5lcnMiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIGNvbXBvbmVudCBhcHAgIkNvbXBvbmVudHMiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgIHN0eWxlcyB7CiAgICAgICAgICAgIGVsZW1lbnQgIlBlcnNvbiIgewogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICAgICAgZm9udFNpemUgMjIKICAgICAgICAgICAgICAgIHNoYXBlIFBlcnNvbgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIktsaWVudCBwb3J0YWx1IHJvc3NtYW5uIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICMwODQyN2IKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJCYW5rIFN0YWZmIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJTb2Z0d2FyZSBTeXN0ZW0iIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzExNjhiZAogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkV4aXN0aW5nIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjOTk5OTk5CiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiQ29udGFpbmVyIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM0MzhkZDUKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJMb3lhbHR5IiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICMzOEQ4MjIKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJXZWIgQnJvd3NlciIgewogICAgICAgICAgICAgICAgc2hhcGUgV2ViQnJvd3NlcgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIk1vYmlsZSBBcHAiIHsKICAgICAgICAgICAgICAgIHNoYXBlIE1vYmlsZURldmljZUxhbmRzY2FwZQogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkRhdGFiYXNlIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBDeWxpbmRlcgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkNvbXBvbmVudCIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjODViYmYwCiAgICAgICAgICAgICAgICBjb2xvciAjMDAwMDAwCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiRmFpbG92ZXIiIHsKICAgICAgICAgICAgICAgIG9wYWNpdHkgMjUKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICAKICAgICAgICB0aGVtZSBkZWZhdWx0CiAgICAgICAgdGhlbWVzIGh0dHBzOi8vc3RhdGljLnN0cnVjdHVyaXpyLmNvbS90aGVtZXMvYW1hem9uLXdlYi1zZXJ2aWNlcy0yMDIwLjA0LjMwL3RoZW1lLmpzb24KICAgIH0KCn0K"
   },
   "configuration" : { },
   "model" : {
@@ -15,7 +15,7 @@
       "tags" : "Element,Person",
       "name" : "User",
       "relationships" : [ {
-        "id" : "9",
+        "id" : "16",
         "tags" : "Relationship",
         "sourceId" : "1",
         "destinationId" : "3",
@@ -24,12 +24,6 @@
       "location" : "Unspecified"
     } ],
     "softwareSystems" : [ {
-      "id" : "2",
-      "tags" : "Element,Software System",
-      "name" : "Yahoo Finance",
-      "location" : "Unspecified",
-      "documentation" : { }
-    }, {
       "id" : "3",
       "tags" : "Element,Software System",
       "name" : "Stonksy",
@@ -42,11 +36,23 @@
       } ],
       "location" : "Unspecified",
       "containers" : [ {
+        "id" : "13",
+        "tags" : "Element,Container",
+        "name" : "HistoryDatabase",
+        "description" : "Stores information abaout stock histor",
+        "technology" : "Database"
+      }, {
         "id" : "4",
         "tags" : "Element,Container",
         "name" : "Stonksy.App",
         "description" : "Provides information about some stocks",
         "relationships" : [ {
+          "id" : "15",
+          "sourceId" : "4",
+          "destinationId" : "13",
+          "description" : "Read/Write stock",
+          "linkedRelationshipId" : "14"
+        }, {
           "id" : "7",
           "sourceId" : "4",
           "destinationId" : "2",
@@ -55,11 +61,25 @@
         } ],
         "technology" : ".NET 6",
         "components" : [ {
+          "id" : "9",
+          "tags" : "Element,Component",
+          "name" : "StockDataPredictor",
+          "description" : "Predict future price of stock",
+          "technology" : "Dotnet Module",
+          "size" : 0
+        }, {
           "id" : "5",
           "tags" : "Element,Component",
-          "name" : "Sign In Controller",
-          "description" : "Allows users to sign in to the Internet Banking System.",
+          "name" : "StockDataProvider",
+          "description" : "Provide stock data",
           "relationships" : [ {
+            "id" : "12",
+            "tags" : "Relationship",
+            "sourceId" : "5",
+            "destinationId" : "10",
+            "description" : "StockWasDownloaded",
+            "technology" : "rabbitmq"
+          }, {
             "id" : "6",
             "tags" : "Relationship",
             "sourceId" : "5",
@@ -68,8 +88,35 @@
           } ],
           "technology" : "Dotnet Module",
           "size" : 0
+        }, {
+          "id" : "10",
+          "tags" : "Element,Component",
+          "name" : "StockDataHistory",
+          "description" : "Provide stock data history",
+          "relationships" : [ {
+            "id" : "14",
+            "tags" : "Relationship",
+            "sourceId" : "10",
+            "destinationId" : "13",
+            "description" : "Read/Write stock"
+          }, {
+            "id" : "11",
+            "tags" : "Relationship",
+            "sourceId" : "10",
+            "destinationId" : "9",
+            "description" : "StockWasChanged",
+            "technology" : "rabbitmq"
+          } ],
+          "technology" : "Dotnet Module",
+          "size" : 0
         } ]
       } ],
+      "documentation" : { }
+    }, {
+      "id" : "2",
+      "tags" : "Element,Software System",
+      "name" : "Yahoo Finance",
+      "location" : "Unspecified",
       "documentation" : { }
     } ]
   },
@@ -94,9 +141,9 @@
       },
       "enterpriseBoundaryVisible" : true,
       "relationships" : [ {
-        "id" : "8"
+        "id" : "16"
       }, {
-        "id" : "9"
+        "id" : "8"
       } ],
       "elements" : [ {
         "id" : "1",
@@ -116,10 +163,10 @@
       "softwareSystemId" : "3",
       "key" : "Containers",
       "order" : 2,
-      "paperSize" : "A6_Portrait",
+      "paperSize" : "A5_Landscape",
       "dimensions" : {
-        "width" : 1108,
-        "height" : 1454
+        "width" : 1754,
+        "height" : 1558
       },
       "automaticLayout" : {
         "implementation" : "Graphviz",
@@ -131,25 +178,31 @@
       },
       "externalSoftwareSystemBoundariesVisible" : true,
       "relationships" : [ {
+        "id" : "15"
+      }, {
         "id" : "7"
       } ],
       "elements" : [ {
         "id" : "2",
-        "x" : 329,
-        "y" : 886
+        "x" : 1036,
+        "y" : 892
+      }, {
+        "id" : "13",
+        "x" : 286,
+        "y" : 892
       }, {
         "id" : "4",
-        "x" : 329,
-        "y" : 286
+        "x" : 286,
+        "y" : 292
       } ]
     } ],
     "componentViews" : [ {
       "key" : "Components",
       "order" : 3,
-      "paperSize" : "A6_Portrait",
+      "paperSize" : "A4_Portrait",
       "dimensions" : {
-        "width" : 1108,
-        "height" : 1454
+        "width" : 1754,
+        "height" : 2158
       },
       "automaticLayout" : {
         "implementation" : "Graphviz",
@@ -162,16 +215,34 @@
       "containerId" : "4",
       "externalContainerBoundariesVisible" : true,
       "relationships" : [ {
+        "id" : "14"
+      }, {
         "id" : "6"
+      }, {
+        "id" : "11"
+      }, {
+        "id" : "12"
       } ],
       "elements" : [ {
         "id" : "2",
-        "x" : 329,
+        "x" : 1079,
         "y" : 929
+      }, {
+        "id" : "13",
+        "x" : 1079,
+        "y" : 1529
       }, {
         "id" : "5",
         "x" : 329,
         "y" : 329
+      }, {
+        "id" : "9",
+        "x" : 329,
+        "y" : 1529
+      }, {
+        "id" : "10",
+        "x" : 329,
+        "y" : 929
       } ]
     } ],
     "configuration" : {
@@ -224,7 +295,7 @@
       },
       "themes" : [ "https://static.structurizr.com/themes/default/theme.json", "https://static.structurizr.com/themes/amazon-web-services-2020.04.30/theme.json" ],
       "terminology" : { },
-      "lastSavedView" : "Containers"
+      "lastSavedView" : "Components"
     }
   }
 }

@@ -5,12 +5,20 @@ workspace {
         yahoo = softwareSystem "Yahoo Finance"
         stonksy = softwareSystem "Stonksy" {
             app = container "Stonksy.App" "Provides information about some stocks" ".NET 6" {
-                stonkprovider = component "StonksDataProvider" "Provide stock data" "Dotnet Module" {
+                stonkprovider = component "StockDataProvider" "Provide stock data" "Dotnet Module" {
                     this -> yahoo "Download stock data"
                 }
+                stonkpredictor = component "StockDataPredictor" "Predict future price of stock" "Dotnet Module" {
+                }
+                stockdatahistory = component "StockDataHistory" "Provide stock data history" "Dotnet Module" {
+                    this -> stonkpredictor "StockWasChanged" "rabbitmq"
+                    stonkprovider -> this "StockWasDownloaded" "rabbitmq"
+                }
+            }
+            historydb = container "HistoryDatabase" "Stores information abaout stock histor" "Database" {
+                stockdatahistory -> this "Read/Write stock "
             }
         }
-
         user -> stonksy "Uses"
         stonksy -> yahoo "Download stock data"
     }
