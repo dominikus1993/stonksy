@@ -5,6 +5,7 @@ framework: net6.0
 
 nuget Akka
 nuget StockSharp.Yahoo
+nuget RabbitMQ.Stream.Client prerelease
 
 nuget Akka.TestKit.Xunit2
 nuget AutoFixture
