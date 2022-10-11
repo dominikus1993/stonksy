@@ -7,6 +7,8 @@ nuget Akka
 nuget StockSharp.Yahoo
 nuget LanguageExt.Core
 nuget RabbitMQ.Stream.Client prerelease
+nuget Microsoft.Extensions.Hosting.Abstractions
+nuget Microsoft.Extensions.Logging.Abstractions
 
 nuget Akka.TestKit.Xunit2
 nuget AutoFixture

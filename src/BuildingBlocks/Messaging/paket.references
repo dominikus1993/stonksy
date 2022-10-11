@@ -1,2 +1,4 @@
 RabbitMQ.Stream.Client
 LanguageExt.Core
+Microsoft.Extensions.Hosting.Abstractions
+Microsoft.Extensions.Logging.Abstractions
