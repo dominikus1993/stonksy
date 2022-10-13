@@ -31,6 +31,7 @@ internal class RabbitMqStreamPublisher<T> : IMessagePublisher<T> where T : class
         { "X-Message-Type", typeof(T).FullName! },
         { "X-Message-Name", T.Name }
     };
+    
     public RabbitMqStreamPublisher(Producer producer, RabbitMqPublisherConfig<T> config, ILogger<RabbitMqStreamPublisher<T>> logger)
     {
         _producer = producer;
