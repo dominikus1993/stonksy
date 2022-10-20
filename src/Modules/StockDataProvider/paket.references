@@ -1,2 +1,6 @@
 StockSharp.Yahoo
 Microsoft.Extensions.Hosting.Abstractions
+StrongInject
+Ardalis.SmartEnum.SystemTextJson
+Ardalis.SmartEnum.EFCore
+StrongInject.Extensions.DependencyInjection

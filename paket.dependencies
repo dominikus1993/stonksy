@@ -9,6 +9,11 @@ nuget LanguageExt.Core
 nuget RabbitMQ.Stream.Client prerelease
 nuget Microsoft.Extensions.Hosting.Abstractions
 nuget Microsoft.Extensions.Logging.Abstractions
+nuget StrongInject
+nuget StrongInject.Extensions.DependencyInjection
+nuget StrongInject.Extensions.DependencyInjection.AspNetCore
+nuget Ardalis.SmartEnum.SystemTextJson
+nuget Ardalis.SmartEnum.EFCore
 
 nuget Akka.TestKit.Xunit2
 nuget AutoFixture
